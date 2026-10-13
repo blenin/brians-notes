@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "La última generación de conductores"
+date: 2026-10-13 16:50
 ---
 
 Dentro de diez años, la pregunta no será si los carros se manejan solos. Eso ya estará resuelto. La pregunta será otra, más incómoda: ¿a quién le importará aprender a hacerlo?
