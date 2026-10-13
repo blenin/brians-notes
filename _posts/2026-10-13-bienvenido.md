@@ -2,6 +2,7 @@
 title: "Bienvenido a Brian's Notes"
 subtitle: "Por qué empiezo este blog y qué vas a encontrar aquí"
 date: 2026-10-13
+pinned: true
 ---
 
 Hay ideas que solo se entienden cuando las escribes. Este blog nace de esa convicción.
