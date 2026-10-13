@@ -2,8 +2,8 @@ title: Brian's Notes
 description: Notas personales sobre tecnología, ideas y lo que voy aprendiendo en el camino.
 author: Brian
 lang: es
-url: ""
-baseurl: ""
+url: "https://blenin.github.io"
+baseurl: "/brians-notes"
 
 markdown: kramdown
 plugins:
