@@ -4,7 +4,7 @@ title: Inicio
 ---
 
 <div class="hero">
-  <h1>Notas sobre tecnología, ideas y lo que voy aprendiendo.</h1>
+  <h1>Tecnología e ideas, explicadas sin humo.</h1>
   <p>Escribo para pensar mejor. Sin prisa, sin ruido: una nota a la vez.</p>
 </div>
 
