@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "¿En qué se basa el ataque relay? Te pueden robar tu carro keyless con esta técnica"
+date: 2026-10-13 19:05
 ---
 
 Tu carro está estacionado frente a tu casa. Tus llaves están colgadas junto a la puerta, donde siempre. A las 3 de la mañana, dos personas se lo llevan. No rompen un vidrio. No fuerzan la cerradura. No suena la alarma. En menos de 60 segundos, el carro arranca y desaparece.
