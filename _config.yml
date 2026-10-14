@@ -4,6 +4,7 @@ author: Brian
 lang: es
 url: "https://blenin.github.io"
 baseurl: "/brians-notes"
+google_analytics: G-CNKXGK4TJZ
 
 markdown: kramdown
 plugins:
